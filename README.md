@@ -4,7 +4,7 @@
 
 ![자판기-관리자](https://user-images.githubusercontent.com/114462583/204171644-df68e8d5-f6b6-4602-be65-a55935de65a3.png)
 
-## ● 결재전과 결재후
+## ● 결제전과 결제후
 
 ![결재전후](https://user-images.githubusercontent.com/114462583/204171640-05dfa116-91ae-4268-967c-bac6b9b23716.png)
 
